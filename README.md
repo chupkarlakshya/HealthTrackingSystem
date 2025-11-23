@@ -17,7 +17,6 @@ HealthTrackingSystem/
 │── data.txt
 │── README.md
 │── requirements.txt
-│── report.pdf
 │── screenshots/
 │     └── app.png (optional)
 ```
@@ -100,5 +99,6 @@ Lakshya Jain
 
 ## License
 Open-source and free to modify.
+
 
 
