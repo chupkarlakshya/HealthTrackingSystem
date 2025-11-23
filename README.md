@@ -30,29 +30,28 @@ Copy code
 
 ## Installation and Usage
 
-### 1. Clone the repository:
-git clone https://github.com/chupkarlakshya/HealthTrackingSystem.git
 
-shell
-Copy code
+
+### 1. Clone the repository:
+```
+git clone https://github.com/chupkarlakshya/HealthTrackingSystem.git
+```
 
 ### 2. Navigate into the folder:
+```
 cd HealthTrackingSystem
-
-shell
-Copy code
+```
 
 ### 3. Install dependencies:
+```
 pip install -r requirements.txt
-
-shell
-Copy code
+```
 
 ### 4. Run the application:
+```
 python HealthTrackingSystem.py
+```
 
-markdown
-Copy code
 
 ## How the Application Works
 
@@ -97,3 +96,4 @@ Your Name
 
 ## License
 Open-source and free to modify.
+
