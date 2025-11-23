@@ -64,6 +64,9 @@ Users enter:
 - Calories
 - Workout minutes
 
+### Main GUI
+![Main GUI](screenshots/main-gui.png)
+
 When **Add** is clicked, the data is stored in `data.txt` in this format:
 Date
 Steps
@@ -78,6 +81,9 @@ Users can:
 - View all entries
 - View the last 30 entries
 - Get a motivational message
+
+### Displaying Stored Data
+![Shown Data](screenshots/shown-data.png)
 
 All output appears in the text area of the application.
 
@@ -99,6 +105,7 @@ Lakshya Jain
 
 ## License
 Open-source and free to modify.
+
 
 
 
