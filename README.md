@@ -11,13 +11,17 @@ HealthTrackingSystem is a simple Python Tkinter application that allows users to
 - Stores data in a text file
 
 ## Project Structure
+```
 HealthTrackingSystem/
 │── HealthTrackingSystem.py
 │── data.txt
 │── README.md
 │── requirements.txt
-│── report.pdf (optional)
-│── screenshots/ (optional)
+│── report.pdf
+│── screenshots/
+│     └── app.png (optional)
+```
+
 
 markdown
 Copy code
@@ -92,8 +96,9 @@ All output appears in the text area of the application.
 - Add weekly or monthly statistics
 
 ## Author
-Your Name
+Lakshya Jain
 
 ## License
 Open-source and free to modify.
+
 
