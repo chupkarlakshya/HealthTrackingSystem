@@ -65,7 +65,7 @@ Users enter:
 - Workout minutes
 
 ### Main GUI
-![Main GUI](screenshots/main-gui.png)
+![Main GUI](HealthTrackingSystem/screenshots/main-gui.png)
 
 When **Add** is clicked, the data is stored in `data.txt` in this format:
 Date
@@ -83,7 +83,7 @@ Users can:
 - Get a motivational message
 
 ### Displaying Stored Data
-![Shown Data](screenshots/shown-data.png)
+![Shown Data](HealthTrackingSystem/screenshots/shown-data.png)
 
 All output appears in the text area of the application.
 
@@ -105,6 +105,7 @@ Lakshya Jain
 
 ## License
 Open-source and free to modify.
+
 
 
 
