@@ -11,6 +11,8 @@ Features
  -Lightweight, easy-to-use Tkinter interface
  -Uses a simple text file for storage
 
+### 2. Navigate into the folder:
+
 
 Project Structure
 HealthTracker/
@@ -98,5 +100,6 @@ Add editing and deleting record features
 Replace text file with SQLite database
 
 Provide weekly and monthly summaries
+
 
 Improve UI layout and design
