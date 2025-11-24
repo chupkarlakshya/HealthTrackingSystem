@@ -18,7 +18,6 @@ HealthTrackingSystem/
 │── README.md
 │── requirements.txt
 │── screenshots/
-│     └── app.png (optional)
 ```
 
 
@@ -103,8 +102,13 @@ All output appears in the text area of the application.
 ## Author
 Lakshya Jain
 
+##**Contribution**
+Contributions are welcome! Please open issues or pull requests for new features or bugs.
+
 ## License
-Open-source and free to modify.
+This project is open source and available under the MIT License.
+
+
 
 
 
