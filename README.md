@@ -102,11 +102,12 @@ All output appears in the text area of the application.
 ## Author
 Lakshya Jain
 
-##**Contribution**
+## Contributions
 Contributions are welcome! Please open issues or pull requests for new features or bugs.
 
 ## License
 This project is open source and available under the MIT License.
+
 
 
 
